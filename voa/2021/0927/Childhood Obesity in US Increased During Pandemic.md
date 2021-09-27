@@ -1,20 +1,20 @@
 # Childhood Obesity in US Increased During Pandemic
 
-> quickened: 加快；
-signal: 信号，预兆；
-profound: 意义深远的，严重的；
-> gain: 获得，赢得，增加；
-> concerning: 关于，涉及，让人担忧；
-> prevention: 预防；
-> severe: 严峻的，严重的；
-> expected: 预期的；
-> in-person: 亲自，当面，在场；
-> examination: 检查，考试，询问；
-> limits: 限制，限额；
-> racial: 种族的，人种的；
-> ethnic: 民族的，少数民族的；
-> The Associated Press: 美联社；
-> adapted: 改编，改写。
+> quickened: 加快； \
+signal: 信号，预兆；\
+profound: 意义深远的，严重的；\
+gain: 获得，赢得，增加；\
+concerning: 关于，涉及，让人担忧；\
+prevention: 预防；\
+severe: 严峻的，严重的；\
+expected: 预期的；\
+in-person: 亲自，当面，在场；\
+examination: 检查，考试，询问；\
+limits: 限制，限额；\
+racial: 种族的，人种的；\
+ethnic: 民族的，少数民族的；\
+The Associated Press: 美联社；\
+adapted: 改编，改写。
 
 
 By Dan Novak
